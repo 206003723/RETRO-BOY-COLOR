@@ -1,6 +1,6 @@
 # Hardware
 - Edit PCB files using EasyEDA Pro, or directly use Gerber files for production.
-- Use the Espressif tool to flash firmware.bin onto the ESP32-S3 dev board.
+- Use the Espressif tool to flash firmware.img onto the ESP32-S3 dev board.
 
 # Table of contents
 - [Description](#description)
